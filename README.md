@@ -26,8 +26,28 @@ With this tool, you can repair the Xbox app, reinstall Gaming Services, and solv
 
 ---
 
+❓ FAQ
+
+Q: Is it safe to use?
+✔ Yes. The tool uses official Microsoft repair commands and does not modify unrelated system files.
+
+Q: Do I need internet?
+✔ Yes. Some fixes require downloading Gaming Services or Windows components.
+
+Q: Does it work on Windows 10 and 11?
+✔ Yes, fully supported.
+
+---
+
 ## 🚀 Usage
 Run the tool and enter the error code you are facing:  
 
 ```bash
 UltimateGamePassFixer.exe  0x80070426
+
+---
+
+📹 Video Guide
+
+🎥 Watch the full tutorial on YouTube:
+👉 Ultimate Game Pass Fixer - Fix All Errors
