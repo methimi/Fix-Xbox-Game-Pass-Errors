@@ -22,7 +22,7 @@ With this tool, you can repair the Xbox app, reinstall Gaming Services, and solv
 ## 📥 Installation
 1. Download the latest release from [Releases](https://github.com/YourUsername/UltimateGamePassFixer/releases).  
 2. Extract the archive.  
-3. Run `Ultimate Game Pass Fixer.exe` as Administrator.  
+3. Run `Ultimate Game Pass Fixer` as Administrator.  
 
 ---
 
