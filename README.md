@@ -50,4 +50,4 @@ UltimateGamePassFixer.exe  0x80070426
 📹 Video Guide
 
 🎥 Watch the full tutorial on YouTube:
-👉 Ultimate Game Pass Fixer - Fix All Errors
+👉 https://www.youtube.com/watch?v=YCK_cb9ISLM
