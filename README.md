@@ -11,7 +11,8 @@ With this tool, you can repair the Xbox app, reinstall Gaming Services, and solv
   - `0x87e00017` – Update or installation failed  
   - `0x80070490` – Missing system files  
   - `0x00000001` – Game installation error  
-  - `0x80070005` – Access denied / permission issues  
+  - `0x80070005` – Access denied / permission issues
+  - and more! 
 - ⚡ Works on both **Windows 10 & 11**  
 - 🛠 Repairs Xbox App & Gaming Services automatically  
 - ✅ Easy-to-use command-line tool  
